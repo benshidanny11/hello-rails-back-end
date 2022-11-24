@@ -28,7 +28,7 @@ you@your-Pc-name:~$ cd <blog-app>
 
 ## Link to  hello-react-front-end
 
-> Pleas visit this [Link](https://github.com/benshidanny11/hello-react-front-end) to access the react
+> Please visit this [Link](https://github.com/benshidanny11/hello-react-front-end) to access the react
 
 
 👤 **Daniel Urimubenshi**
